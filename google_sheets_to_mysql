@@ -1,3 +1,0 @@
-# Google Sheets to MySQL
-
-Pipeline ETL en Python que sincroniza datos desde Google Sheets hacia una base MySQL utilizando una estrategia de **full refresh**.
